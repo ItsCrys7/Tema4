@@ -1,0 +1,111 @@
+.h1 {
+    margin-left: 310px;
+    font-family: "Courier New", serif;
+    font-weight: 100;
+    font-style: normal;
+}
+
+.email {
+    font-size: 15px;
+    font-family: "Courier New", serif;
+    padding: 20px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(72, 71, 71);
+    margin: 15px 1100px 15px 230px;
+    width: 300px;
+}
+
+.password {
+    font-size: 15px;
+    font-family: "Courier New", serif;
+    padding: 20px;
+    border-radius: 100px;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(72, 71, 71);
+    margin: 15px 1100px 15px 230px;
+    width: 300px;
+
+}
+
+.remember {
+    margin-left: 230px;
+    font-family: "Courier New", serif;
+
+}
+
+.login {
+    font-size: 15px;
+    font-family: "Courier New", serif;
+    padding: 20px;
+    border-radius: 100px;
+    background-color: rgb(32, 28, 235);
+    background-size: 100px;
+    margin: 15px 1100px 15px 230px;
+    text-align: center;
+    color: white;
+    width: 300px;
+
+}
+
+.gologolo {
+    font-size: 15px;
+    font-family: "Courier New", serif;
+    padding: 20px;
+    border-radius: 100px;
+    background-color: rgb(231, 14, 14);
+    background-size: 100px;
+    margin: 15px 1100px 15px 230px;
+    text-align: center;
+    color: white;
+    width: 300px;
+
+}
+
+.fbook {
+    font-size: 15px;
+    font-family: "Courier New", serif;
+    padding: 20px;
+    border-radius: 100px;
+    background-color: rgb(47, 11, 179);
+    background-size: 100px;
+    margin: 15px 1100px 15px 230px;
+    text-align: center;
+    color: white;
+    width: 300px;
+
+}
+
+.forgot {
+    color: rgb(57, 128, 227);
+    font-family: "Courier New", serif;
+    margin: 15px 0px 15px 350px;
+}
+
+.create {
+    color: rgb(57, 128, 227);
+    margin-left: 345px;
+    font-family: "Courier New", serif;
+}
+
+.hr1 {
+    width: 30%;
+    margin-left: 165px;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 500px;
+
+}
+
+.hr2 {
+    width: 30%;
+    margin-left: 165px;
+    margin-right: auto;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: 500px;
+
+}
